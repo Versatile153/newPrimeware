@@ -1,0 +1,6 @@
+[13-Feb-2023 06:29:07 UTC] PHP Fatal error:  Cannot use Illuminate\Support\Facades\Auth as Auth because the name is already in use in /home/bmvfujmx/bitcoin.com.bmvfo.bmvforex.com/routes/web.php on line 11
+[16-Feb-2023 07:26:43 UTC] PHP Fatal error:  Cannot use App\Models\Withdrawal as Withdrawal because the name is already in use in /home/bmvfujmx/bitcoin.com.bmvfo.bmvforex.com/app/Http/Controllers/PayMentController.php on line 13
+[16-Feb-2023 07:28:35 UTC] PHP Fatal error:  Cannot use App\Models\Withdrawal as Withdrawal because the name is already in use in /home/bmvfujmx/bitcoin.com.bmvfo.bmvforex.com/app/Http/Controllers/PayMentController.php on line 13
+[16-Feb-2023 18:37:26 UTC] PHP Fatal error:  Cannot use App\Models\Proof as Proof because the name is already in use in /home/bmvfujmx/bitcoin.com.bmvfo.bmvforex.com/app/Http/Controllers/PayMentController.php on line 13
+[05-Mar-2023 11:10:46 UTC] PHP Fatal error:  Cannot use Carbon\Carbon as Carbon because the name is already in use in /home/bmvfujmx/primewaretrades.com/storage/framework/views/7e3bac2414c0428dcf8b70aabe5683fe2e17bee1.php on line 65
+[08-Mar-2023 13:44:44 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\PayMentController::add3() in /home/bmvfujmx/primewaretrades.com/app/Http/Controllers/PayMentController.php on line 302
